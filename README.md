@@ -9,4 +9,4 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 - Connect with Me:  
 - 📫 <a href="https://www.linkedin.com/in/anjali-chauhan-31283b190/">LinkedIn</a>
 - 💼 <a href="https://twitter.com/AnjaliC62057085">Twitter</a>
-- 💬 <a href="https://www.blogger.com/u/1/edit-profile.g">Blogger</a>
+- 💬 <a href="http://anjali-----chauhan.blogspot.com/">Blogs</a>
