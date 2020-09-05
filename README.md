@@ -5,7 +5,7 @@
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. 😊
 - 🌱  WEB DEVELOPER || PYTHON DEVELOPER
 - 😄 Python || C++ || HTML || CSS || JAVASCRIPT
-- 🤔 I’m learning REACT || NodeJS || MangoDB
+- 🤔 I’m learning REACT || NodeJS || MongoDB
 - Connect with Me:  
 - 📫 <a href="https://www.linkedin.com/in/anjali-chauhan-31283b190/">LinkedIn</a>
 - 💼 <a href="https://twitter.com/AnjaliC62057085">Twitter</a>
