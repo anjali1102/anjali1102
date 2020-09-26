@@ -28,7 +28,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 <code><img height="35" src="https://user-images.githubusercontent.com/49339/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png"></code>
 <code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
-<code><img height="35" src="https://lh3.googleusercontent.com/proxy/aAJzmMVcv6WSNWHo4rEXS8AU0CATgjOb65jhhKii5qCt1gGbRL2X8HdYU9_LYMtUxhLw7Aih-A_KctaCQSOsQsMHD35b5y1WjT71xV2IZffLkcCOu48"></code>
+<code><img height="35" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
 <code><img height="35" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
 <code><img height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
 <code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
