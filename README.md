@@ -10,8 +10,12 @@
 <a href="https://www.blogger.com/profile/11038997497995701306">
   <img align="left" alt="Blogger Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
+                                                                                                                        
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anjali1102&theme=cobalt&show_icons=true" />
 
 ![github](https://user-images.githubusercontent.com/56559378/88052779-663cdc00-cb78-11ea-99f8-520ff3c7d037.png)
+
+
 ####  I am WEB DEVELOPER & BLOGGER 😄🦄 
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. 😊
 
