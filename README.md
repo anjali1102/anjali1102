@@ -2,13 +2,22 @@
 ![Name](name.gif) 
 
 <a href="https://twitter.com/AnjaliC62057085">
-  <img align="left" alt="Twitter Icon" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Twitter Icon" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anjali-chauhan-31283b190/">
-  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
 <a href="https://www.blogger.com/profile/11038997497995701306">
-  <img align="left" alt="Blogger Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="Blogger Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/blogger.svg" />
+</a> 
+<a href="https://leetcode.com/anjali_1102/">
+  <img align="left" alt="LeetCode Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/leetcode.svg" />
+</a>
+<a href="https://github.com/anjali1102/">
+  <img align="left" alt="Github Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" />
+</a>
+<a href="mailto:ac.chauhan1102@gmail.com">
+  <img align="left" alt="Mail Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/gmail.svg" />
 </a>
                                                                                                                         
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=anjali1102&theme=cobalt&show_icons=true" />
@@ -56,7 +65,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 ```text
 C++          13 hrs 36 mins  ████████████▓░░░░░░░░░░░░   50.75 % 
 Javscript    5 hrs 38 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
-Python       4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+DSAlgo       4 hrs 29 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
 React        1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 Golang       45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 ```
