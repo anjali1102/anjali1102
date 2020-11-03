@@ -26,27 +26,29 @@
 
 
 ####  I am WEB DEVELOPER & BLOGGER 😄🦄 
+
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. 😊
 
 **Languages and Tools:**  
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="35" src="https://nodejs.org/static/images/logo-hexagon-card.png"></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="35" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="35" src="https://user-images.githubusercontent.com/49339/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png"></code>
-<code><img height="35" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
-<code><img height="35" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
-<code><img height="35" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
-<code><img height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
-<code><img height="35" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
-<code><img height="35" src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass.png"></code>
-<code><img height="35" src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png"></code>
+
+<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="33" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
+<code><img height="33" src="https://nodejs.org/static/images/logo-hexagon-card.png"></code>
+<code><img height="33" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
+<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="33" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+<code><img height="33" src="https://user-images.githubusercontent.com/49339/32078472-5053adea-baa7-11e7-9034-519002f12ac7.png"></code>
+<code><img height="33" src="https://cdn.iconscout.com/icon/free/png-512/unity-5-555544.png"></code>
+<code><img height="33" src="https://www.kindpng.com/picc/m/25-255595_icon-android-studio-logo-hd-png-download.png"></code>
+<code><img height="33" src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png"></code>
+<code><img height="33" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png"></code>
+<code><img height="33" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></code>
+<code><img height="33" src="https://cdn.iconscout.com/icon/free/png-512/stackoverflow-2-432547.png"></code>
+<code><img height="33" src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass.png"></code>
+<code><img height="33" src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo.png"></code>
 
 
 - 🌱  WEB DEVELOPER || PYTHON DEVELOPER
