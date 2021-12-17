@@ -4,10 +4,10 @@
 <a href="https://twitter.com/AnjaliC62057085">
   <img align="left" alt="Twitter Icon" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/anjali-chauhan-31283b190/">
+<a href="https://www.linkedin.com/in/anjali1102/">
   <img align="left" alt="Linkedin Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
 </a>
-<a href="https://www.blogger.com/profile/11038997497995701306">
+<a href="https://hashnode.com/@anjalii">
   <img align="left" alt="Blogger Icon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/blogger.svg" />
 </a> 
 <a href="https://leetcode.com/anjali_1102/">
