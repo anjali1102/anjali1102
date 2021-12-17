@@ -56,8 +56,8 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 - 🤔 I’m learning REACT || NodeJS || MongoDB
 - Connect with Me:  
 - 📫 <a href="https://www.linkedin.com/in/anjali-chauhan-31283b190/">LinkedIn</a>
-- 💼 <a href="https://twitter.com/AnjaliC62057085">Twitter</a>
-- 💬 <a href="https://www.blogger.com/profile/11038997497995701306">Blogs</a>
+- 🐦 <a href="https://twitter.com/anjalii1102">Twitter</a>
+- 📝 <a href="https://hashnode.com/@anjalii">Blogs</a>
 
 
 
