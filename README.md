@@ -1,5 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">![Name](Hello.gif) 
 ![Name](name.gif) 
+![Udit's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=anjali1102&text=Hola,+I'm+Anjali&pattern=p2&grayscale=true&avatarRadius=50)
 
 <a href="https://twitter.com/AnjaliC62057085">
   <img align="left" alt="Twitter Icon" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/twitter.svg" />
