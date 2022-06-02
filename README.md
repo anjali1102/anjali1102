@@ -1,7 +1,7 @@
 ### 👋 Hello, I'm
 ## Anjali Chauhan 
 
-![github](https://user-images.githubusercontent.com/56559378/88052779-663cdc00-cb78-11ea-99f8-520ff3c7d037.png)
+![Anjali's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=anjali1102&text=Hola,+I'm+Anjali&pattern=p8&avatarRadius=50)
 
 
 ####  I am WEB DEVELOPER & BLOGGER 😄🦄 
@@ -37,6 +37,7 @@ HTML, CSS | [My Component Library with 10+ components](https://rapidui.vercel.ap
 <code><img height="33" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 
 <br>
+
 ### 🤝 Connect with me on
 
 <a href="https://twitter.com/anjalii1102" target="_blank">
@@ -51,3 +52,6 @@ HTML, CSS | [My Component Library with 10+ components](https://rapidui.vercel.ap
 <a href="https://hashnode.com/@anjalii">
   <img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="hashnode" width="20" target="_blank"/>
 </a> 
+
+<br>
+
