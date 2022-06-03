@@ -12,7 +12,7 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 ### ✨ Content I've recently published
 | Technologies | Title |
 | --- | --- |
-ReactJS, CSS(own component Lib) | [Hogwarts Supplies - Ecommerce](https://rad-phoenix-d2bebf.netlify.app/) 
+ReactJS, CSS(own component Lib) | [Hogwarts Supplies - Ecommerce](https://hogwarts-supplies.netlify.app/) 
 HTML, CSS, JS | [My Portfolio with blogs & Projects ](https://anjali.ga)
 HTML, CSS | [My Component Library with 10+ components](https://rapidui.vercel.app/)
 <!-- content -->
