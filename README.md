@@ -27,14 +27,28 @@ HTML, CSS | [My Component Library with 10+ components](https://rapidui.vercel.ap
     ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjlai1102&show_icons=true&theme=radical)
 </a>
 
-### 👩‍💻 Languages and Tools
+ 
+ ## Tools / Languages:
 
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="33" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="33" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
+These are the tools and languages that I have worked with and have experience about using them.
+
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+
+#### Tools/Language which I am Learning 💗
+![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 
 <br>
 
@@ -55,3 +69,9 @@ HTML, CSS | [My Component Library with 10+ components](https://rapidui.vercel.ap
 
 <br>
 
+## Github Stats 📃:
+
+<p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=anjali1102&count_private=true&include_all_commits=true&theme=tokyonight" alt="Anjali's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali1102&layout=compact&theme=tokyonight" alt="Anjali's top language stats" />
+</p>
