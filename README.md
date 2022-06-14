@@ -1,5 +1,4 @@
-### 👋 Hello, I'm
-## Anjali Chauhan 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+I+am+Anjali+a+Developer)](https://git.io/typing-svg)
 
 ![Anjali's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=anjali1102&text=Hola,+I'm+Anjali&pattern=p8&avatarRadius=50)
 
@@ -52,20 +51,26 @@ These are the tools and languages that I have worked with and have experience ab
 
 <br>
 
+**Support Me 🌈** <br/>
+- ![buymeacoffee.com/anjalii1102](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+
+
 ### 🤝 Connect with me on
 
 <a href="https://twitter.com/anjalii1102" target="_blank">
-    <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
+    <img width="20px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
 </a> 
 <a href="https://linkedin.com/in/anjali1102" target="_blank">
-    <img width="20" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
+    <img width="20px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/linkedin_linked_interface_media_social_network-512.png" alt="LinkedIn">
 </a> 
-<a href="mailto:ac.chauhan1102@gmail.com">
-  <img width="20" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-128.png"  alt="Mail" target="_blank"/>
+<a href="mailto:ac.chauhan1102@gmail.com" target="_blank">
+  <img width="20px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-128.png" alt="Mail"/>
 </a>
-<a href="https://hashnode.com/@anjalii">
-  <img src="https://www.svgrepo.com/show/353859/hashnode-icon.svg" alt="hashnode" width="20" target="_blank"/>
-</a> 
+<span></span>
+<a href="https://hashnode.com/@anjalii" target="_blank">
+  <img width="20px" src="https://user-images.githubusercontent.com/56559378/173660854-9891effe-ae3f-4c1d-8042-8e7e3e4be6b1.png" alt="hashnode"/>
+</a>
+
 
 <br>
 
