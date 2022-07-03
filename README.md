@@ -18,8 +18,8 @@ HTML, CSS | [My Component Library with 10+ components](https://rapidui.vercel.ap
 
 ###  ☀️ Blogs I've recently wrote 
 - [React Fundamentals 🔯](https://hashnode.com/post/day-1-react-fundamentals-declarative-cl0tx1z1d004eiknv4uzh7c9q)
-- [React Hooks & Components 🪝](https://hashnode.com/post/component-and-hooks-reactjs-cl0wq90hd06h6j6nvho25808c
-- [Got Published on ReactPlay.io](https://blog.reactplay.io/react-fundamentals-declarative-or-component-based-or-library)
+- [React Hooks & Components 🪝](https://hashnode.com/post/component-and-hooks-reactjs-cl0wq90hd06h6j6nvho25808c)
+- [Got Published on ReactPlay.io 🎉🎉](https://blog.reactplay.io/react-fundamentals-declarative-or-component-based-or-library)
 
 <br> <br>
 
