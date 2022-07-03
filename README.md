@@ -35,6 +35,7 @@ These are the tools and languages that I have worked with and have experience ab
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
@@ -43,10 +44,10 @@ These are the tools and languages that I have worked with and have experience ab
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
 
+
 #### Tools/Language which I am Learning 💗
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 
 <br>
