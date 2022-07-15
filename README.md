@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hi%2C+Small+Girl+Big+a+Dreams🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Small+Girl+Big+Dreams🌻)](https://git.io/typing-svg)
 
 ![Anjali's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=anjali1102&text=Hola,+I'm+Anjali&pattern=p8&avatarRadius=50)
 
