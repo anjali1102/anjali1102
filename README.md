@@ -57,8 +57,7 @@ These are the tools and languages that I have worked with and have experience ab
 - ![buymeacoffee.com/anjalii1102](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 
-### 🤝 Connect with me on
-
+### <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/> Connect with me on   
 <a href="https://twitter.com/anjalii1102" target="_blank">
     <img width="20px" src="https://cdn0.iconfinder.com/data/icons/social-media-2474/128/twitter_social_media_social_media_network-512.png" alt="Twitter">
 </a> 
