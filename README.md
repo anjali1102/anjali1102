@@ -3,7 +3,7 @@
 ![Anjali's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=anjali1102&text=Hola,+I'm+Anjali&pattern=p8&avatarRadius=50)
 
 
-####  I am WEB DEVELOPER & BLOGGER 😄🦄 
+####  I am WEB DEVELOPER & BLOGGER  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 
 I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. 😊
 
