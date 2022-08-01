@@ -1,14 +1,14 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Small+Girl+Big+Dreams🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Small+Girl+Big+Dreams⚛️)](https://git.io/typing-svg)
 
 ![Anjali's GitHub cover](https://cool-cover.up.railway.app/cover.png?username=anjali1102&text=Hola,+I'm+Anjali&pattern=p8&avatarRadius=50)
 
 
 ####  I am WEB DEVELOPER & BLOGGER  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 
-I'm a software Developer and tech enthusiast who is passionate about making open-source more accessible, creating technology to elevate people, and building community Where sharing of knowledge is super easy. 😊
+Software Developer who love creating Beautiful UI and turns Ideas to Reality, Also holds a BTech Degree 🗞️
 
 
-### ✨ Content I've recently published
+### ✨ Content I've recently published  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
 | Technologies | Title |
 | --- | --- |
 ReactJS, CSS(own component Lib) | [Hogwarts Supplies - Ecommerce](https://hogwarts-supplies.netlify.app/) 
@@ -51,7 +51,6 @@ These are the tools and languages that I have worked with and have experience ab
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql)
 
-<br>
 
 **Support Me 🌈** <br/>
 - ![buymeacoffee.com/anjalii1102](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
