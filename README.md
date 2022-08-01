@@ -22,8 +22,7 @@ HTML, CSS, JS | [My Portfolio with blogs & Projects ](https://anjali.ga)
 - [React Hooks & Components 🪝](https://hashnode.com/post/component-and-hooks-reactjs-cl0wq90hd06h6j6nvho25808c)
 - [Got Published on ReactPlay.io 🎉🎉](https://blog.reactplay.io/react-fundamentals-declarative-or-component-based-or-library)
 
-<br> <br>
-
+<br> 
 <a href="https://github.com/anjali1102#gh-light-mode-only">
     ![Anjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anjlai1102&show_icons=true&theme=radical)
 </a>
