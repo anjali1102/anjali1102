@@ -12,8 +12,9 @@ I'm a software Developer and tech enthusiast who is passionate about making open
 | Technologies | Title |
 | --- | --- |
 ReactJS, CSS(own component Lib) | [Hogwarts Supplies - Ecommerce](https://hogwarts-supplies.netlify.app/) 
-HTML, CSS, JS | [My Portfolio with blogs & Projects ](https://anjali.ga)
+Redux ToolKit, CSS (own component Lib)| [Leviosa-Supplies](https://leviosa-streams.vercel.app/)
 HTML, CSS | [My Component Library with 10+ components](https://rapidui.vercel.app/)
+HTML, CSS, JS | [My Portfolio with blogs & Projects ](https://anjali.ga)
 <!-- content -->
 
 ###  ☀️ Blogs I've recently wrote 
