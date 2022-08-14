@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Small+Girl+Big+Dreams⚛️)](https://git.io/typing-svg)
-![Anjali's GitHub cover](https://github-cool-covers.vercel.app/api/get-cover?username=anjali1102&text=Hola,+I%27m+Anjali&pattern=p5&grayscale=true&avatarRadius=50)
-
+<a href="https://github.com/anjali1102" title="portfolio">
+<!--   <img src="https://user-images.githubusercontent.com/55291327/138004410-00fc6fef-69ef-4a87-a6f0-e14d640a2f0a.png" alt="Hi there" width="100%"> -->
+  <img src="https://github-cool-covers.vercel.app/api/get-cover?username=anjali1102&text=Hi+I'm+Anjali&fontFamily='Rubik+Maze'&pattern='p4'" alt="Please reload as it seems the image is not loaded properly" width="100%">
+</a>
 
 ####  I am WEB DEVELOPER && TECH WRITER
 
